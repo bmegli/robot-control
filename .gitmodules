@@ -1,0 +1,3 @@
+[submodule "minimal-latency-streaming-protocol"]
+	path = minimal-latency-streaming-protocol
+	url = https://github.com/bmegli/minimal-latency-streaming-protocol.git
